@@ -1,4 +1,4 @@
-# Flutter-Task-Manager-UI
+# Flutter Task Manager UI
 <img src="https://user-images.githubusercontent.com/43846785/184098341-8bb2f55e-ccd0-4426-864e-f6c2647cca50.png" width="250">
 
 ## Table of contents
